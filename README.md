@@ -4,14 +4,14 @@
 
 http://ionicframework.com/getting-started/
 
-  $ npm install -g cordova ionic
-  $ npm install -g ios-deploy
-  $ npm install -g ios-deploy
+	$ npm install -g cordova ionic
+	$ npm install -g ios-deploy
+	$ npm install -g ios-deploy
   
 安裝 Plugin
 
-  $ cordova plugin add cordova-plugin-tts
+	$ cordova plugin add cordova-plugin-tts
 
 Build  
 
-  $ ionic build ios && ionic emulate ios
+	$ ionic build ios && ionic emulate ios
